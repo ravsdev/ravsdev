@@ -2,7 +2,7 @@
 
 Apasionado del desarrollador web con experiencia en una variedad de lenguajes de programación y frameworks.
 
-Creador de [<img src="https://raw.githubusercontent.com/kreezii/jsgam/master/logo/jsgamLogo.png" alt="drawing" height="30"/>](https://github.com/kreezii/jsgam), motor en JavaScript para crear aventuras gráficas.
+Creador de [<img src="https://raw.githubusercontent.com/kreezii/jsgam/master/logo/jsgamLogo.png" alt="JSGAM" height="30"/>](https://github.com/kreezii/jsgam), motor realizado en JavaScript para crear aventuras gráficas y jugarlas directamente desde el navegador.
 
 ## 🛠️ Tecnologías y Herramientas
 ### Languages
