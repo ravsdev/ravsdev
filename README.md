@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hola soy Raúl 👋
 
-<!--
-**ravsdev/ravsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado del desarrollador web con experiencia en una variedad de lenguajes de programación y frameworks.
 
-Here are some ideas to get you started:
+Creador de [<img src="https://raw.githubusercontent.com/kreezii/jsgam/master/logo/jsgamLogo.png" alt="drawing" height="30"/>](https://github.com/kreezii/jsgam), motor en JavaScript para crear aventuras gráficas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+### Languages
+![Languages](https://skillicons.dev/icons?i=java,js,ts,php)
+### Frontend
+![Front](https://skillicons.dev/icons?i=html,css,angular,react)
+### Backend
+![Back](https://skillicons.dev/icons?i=spring,nodejs,express)
+### Databases
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+### Tools
+![Tools](https://skillicons.dev/icons?i=docker,git,postman,blender)
+
+## 🌟 Proyectos Destacados
+- [**JSGAM**](https://github.com/kreezii/jsgam) (Motor para crear aventuras gráficas realizado en JavaScript)
+- [**JSGAM Editor**](https://github.com/kreezii/jsgam-editor) (Editor HTML que genera los archivos JSON para el motor)
+- [**Wizard Adventure**](https://github.com/kreezii/wizard-adventure) (Juego de ejemplo realizado con JSGAM y JSGAM Editor)
